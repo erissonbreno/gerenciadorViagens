@@ -5,8 +5,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.montanha.gerenciador.entities.Usuario;
-import com.montanha.gerenciador.repositories.UsuarioRepository;
+import com.montanha.isolada.entities.Usuario;
+import com.montanha.isolada.repositories.UsuarioRepository;
 import com.montanha.security.services.UsuarioService;
 
 @Service

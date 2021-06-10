@@ -6,8 +6,8 @@ import java.util.List;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 
-import com.montanha.gerenciador.entities.Usuario;
-import com.montanha.gerenciador.enums.PerfilEnum;
+import com.montanha.isolada.entities.Usuario;
+import com.montanha.isolada.enums.PerfilEnum;
 
 public class JwtUserFactory {
 

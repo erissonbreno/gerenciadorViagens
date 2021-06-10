@@ -15,7 +15,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
-import com.montanha.gerenciador.filter.JwtAuthenticationTokenFilter;
+import com.montanha.isolada.filter.JwtAuthenticationTokenFilter;
 import com.montanha.security.JwtAuthenticationEntryPoint;
 import com.montanha.security.utils.JwtTokenUtil;
 

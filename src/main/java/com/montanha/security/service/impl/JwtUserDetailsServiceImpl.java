@@ -9,7 +9,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
 import com.montanha.security.JwtUserFactory;
-import com.montanha.gerenciador.entities.Usuario;
+import com.montanha.isolada.entities.Usuario;
 import com.montanha.security.services.UsuarioService;
 
 @Service

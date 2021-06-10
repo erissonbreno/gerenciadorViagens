@@ -2,7 +2,7 @@ package com.montanha.security.services;
 
 import java.util.Optional;
 
-import com.montanha.gerenciador.entities.Usuario;
+import com.montanha.isolada.entities.Usuario;
 
 public interface UsuarioService {
 
